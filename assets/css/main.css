@@ -3605,6 +3605,12 @@ input, select, textarea {
 					border-bottom-left-radius: 0;
 				}
 
+
+
+.techIcon{
+	height: 60px;
+}
+
 		@media screen and (max-width: 1280px) {
 
 			#main > .main {
